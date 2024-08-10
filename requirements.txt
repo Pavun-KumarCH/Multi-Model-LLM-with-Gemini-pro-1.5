@@ -1,0 +1,23 @@
+# python required libraries
+tqdm
+pydantic
+ipykernel
+python-dotenv
+python-decouple
+
+# streamlit for deployment
+streamlit
+
+# google genrative ai
+google-generativeai
+
+# llama-index libraries
+llama-index
+llama-index-llms-gemini
+llama-index-multi-modal-llms-gemini
+llama-index-vector-stores-qdrant
+llama-index-embeddings-gemini
+llama-index-llms-gemini
+
+
+#.e
